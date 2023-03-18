@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓  Soy analista programador<br>👓  Tomé el curso de full-stack en Oracle One Next Educación<br>🔭 Me encuentro en busca de trabajo frontend<br>🌱 Actualmente me encuentro aprendiendo React Udemy. Llevo varios proyectos realizados<br>📫 Mi correo de contacto es: f.maldonado@outlook.com<br>💻 Visita mi sitio web: https://francomaldonado.com.ar/<br>
+👨‍🎓  Soy analista programador<br>👓  Tomé el curso de full-stack en Oracle One Next Educación<br>🔭 Me encuentro en busca de trabajo frontend<br>🌱 Actualmente me encuentro aprendiendo React en Udemy. Llevo varios proyectos realizados<br>📫 Mi correo de contacto es: f.maldonado@outlook.com<br>💻 Visita mi sitio web: https://francomaldonado.com.ar/<br>
 
 
 ## 🌐 Socials:
